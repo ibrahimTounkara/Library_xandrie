@@ -9,3 +9,8 @@ function sendMail(){
 function pullDownMail(){
 	echo "Last Mails received";
 }
+
+
+function getEmailSender(){
+	echo "The magic sender is You!!";
+}
