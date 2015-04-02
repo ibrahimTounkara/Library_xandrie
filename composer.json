@@ -1,0 +1,19 @@
+{
+"repositories": {
+    "Library_xandrie": {
+        "type": "package",
+        "package": {
+            "name": "ibrahimTounkara/Library_xandrie",
+            "version": "1.1.2",
+            "source": {
+                "url": "https://github.com/ibrahimTounkara/Library_xandrie",
+                "type": "git",
+                "reference": "be3adb02043b9eaaccc5c33a5ffa6ff30a8b527f"
+            }
+        }
+    }
+},
+"require": {
+    "ibrahimTounkara/Library_xandrie": "*"
+}
+}
