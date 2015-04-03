@@ -17,5 +17,5 @@ function getEmailSender(){
 
 
 function getEmailDestination(){
-	echo "The happy recipient adress is You@you.fr";
+	echo "The happy recipient adress";
 }	
