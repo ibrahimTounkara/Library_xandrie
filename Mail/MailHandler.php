@@ -14,3 +14,8 @@ function pullDownMail(){
 function getEmailSender(){
 	echo "The magic sender is You!!";
 }
+
+
+function getEmailDestination(){
+	echo "The happy recipient adress is You@you.fr";
+}	
