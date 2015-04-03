@@ -1,5 +1,6 @@
 <?php
 
+namespace Library_xandrie\Mail;
 
 function sendMail(){
 	echo "Mail has been send!";

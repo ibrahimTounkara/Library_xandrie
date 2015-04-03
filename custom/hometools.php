@@ -1,5 +1,6 @@
 <?php
 
+namespace Library_xandrie\custom;
 
 function getParam(){
 	echo 'Thats my parameters';	
